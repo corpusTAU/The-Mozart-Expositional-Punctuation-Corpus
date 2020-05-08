@@ -525,7 +525,7 @@ k _id	work	k	genre	mov	tempo	time _sig	key	exp_ start	exp_ length	tot_ cads	cad 
 174	String Quintet	174	String quintet	I	Allegro moderato	2/2	Bb	1	86	7	4	K4	V	true	61	1.0	62	1.0
 174	String Quintet	174	String quintet	I	Allegro moderato	2/2	Bb	1	86	7	5	K4	V	true	68	1.0	69	1.0
 174	String Quintet	174	String quintet	I	Allegro moderato	2/2	Bb	1	86	7	6	K4	V	true	72	1.0	73	1.0
-174	String Quintet	174	String quintet	I	Allegro moderato	2/2	Bb	1	86	7	7	k4	 	false	78	1.0	81	1.0
+174	String Quintet	174	String quintet	I	Allegro moderato	2/2	Bb	1	86	7	7	K4	 	false	78	1.0	81	1.0
 174	String Quintet	174	String quintet	IV	Allegro	2/4	Bb	1	94	5	1	K1	I	true	11	1.0	12	1.0
 174	String Quintet	174	String quintet	IV	Allegro	2/4	Bb	1	94	5	2	K2	V	false	26	1.0	26	2.0
 174	String Quintet	174	String quintet	IV	Allegro	2/4	Bb	1	94	5	3	K4	V	true	49	1.0	49	2.0
