@@ -1,8 +1,8 @@
 # The Mozart Expositional Punctuation Corpus: A Dataset of Interthematic Cadences in Mozart's Sonata-Allegro Expositions
 
-## Uri B. Rom, Omer Raz, and Dror Chawin
+### Uri B. Rom, Omer Raz, and Dror Chawin
 
-### The Buchmann-Mehta School of Music, Tel Aviv University, Tel Aviv, Israel
+#### The Buchmann-Mehta School of Music, Tel Aviv University, Tel Aviv, Israel
 
 This dataset consists of expert annotations (symbolic data) of interthematic (higher-level) cadences in the exposition sections of all of Mozart's instrumental sonata-allegro movements. 
 
